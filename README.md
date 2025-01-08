@@ -37,8 +37,6 @@ I'm always learning and improving. Here are some resources I find helpful:
 - Happy to learn from and connect with fellow ML enthusiasts
 - Always excited to share knowledge and experiences
 
-### 📊 GitHub Stats
-![Your GitHub stats will appear here]
 
 ### 🎯 Goals
 - Build a strong foundation in ML fundamentals
